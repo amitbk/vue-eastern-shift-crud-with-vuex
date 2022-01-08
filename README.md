@@ -1,5 +1,8 @@
 # eastern-app
 
+## Demo
+[Click Here](https://vue-eastern-shift-crud-with-vuex.netlify.app/)
+
 ## Project setup
 ```
 npm install
